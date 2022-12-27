@@ -1,0 +1,2989 @@
+* {
+  margin-top: 25px;
+  margin-left: -35px;
+  margin-right: 405px;
+  background-color: gainsboro;
+}
+.container {
+  width: 500px;
+  margin-left: -50px;
+}
+.header {
+  background-color: white;
+  height: 100px;
+}
+.header img {
+  margin-top: 4px;
+  margin-left: 595px;
+}
+.header1 {
+  background-color: white;
+  display: flex;
+  margin-top: -10px;
+  width: auto;
+}
+.header1 p {
+  background-color: white;
+}
+.header1 select {
+  background-color: white;
+  border-color: white;
+  margin-top: 12px;
+}
+.b2 {
+  margin-left: 200px;
+}
+.car {
+  display: flex;
+  margin-top: -24.5px;
+  /* position: realtive; */
+  background-color: white;
+  height: 780px;
+}
+.car img {
+  position: absolute;
+  margin-left: 0.5px;
+}
+.car .btn2 {
+  /* position: relative; */
+  position: absolute;
+  margin-top: -48%;
+  left: 83%;
+  background-color: gainsboro;
+  color: black;
+  font-size: 15px;
+  border: rosybrown;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.car .btn1 {
+  /* position: relative; */
+  position: absolute;
+  margin-top: -48%;
+  left: 50%;
+  background-color: gainsboro;
+  color: black;
+  font-size: 15px;
+  border: rosybrown;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.btn2:hover {
+  color: aliceblue;
+  background-color: #96c0fa;
+  border-color: #96c0fa;
+}
+.btn1:hover {
+  color: aliceblue;
+  background-color: #96c0fa;
+  border-color: #96c0fa;
+}
+.header2 {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  height: 200px;
+  margin-top: -355px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+.first {
+  background-color: black;
+  height: 20px;
+}
+.first h1 {
+  background-color: black;
+  color: yellow;
+  font-weight: bolder;
+  font-family: sans-serif;
+  font-size: 55px;
+}
+.first p {
+  color: white;
+  background-color: black;
+  margin-top: -25px;
+  font-family: sans-serif;
+  font-size: 25px;
+  margin-left: -5px;
+}
+.mid {
+  background-color: black;
+  height: 20px;
+}
+.mid h1 {
+  background-color: black;
+  border-left: 1px solid gainsboro;
+  height: 125px;
+}
+.page2 {
+  background-color: white;
+  height: 450px;
+}
+.page2 h1 {
+  background-color: white;
+  color: rgb(35, 35, 208);
+  font-size: 35px;
+  font-weight: bolder;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  margin-top: 75px;
+}
+.firstp {
+  display: flex;
+  background-color: white;
+  color: black;
+}
+.cont {
+  background-color: white;
+  margin-left: -25px;
+  height: 200px;
+  margin-top: 5px;
+}
+.cont p {
+  margin-left: 195px;
+  display: flex;
+  font-size: 13px;
+  flex-direction: row;
+  background-color: white;
+  color: black;
+}
+.cont button {
+  background-color: white;
+  border-color: rgb(6, 110, 179);
+  color: rgb(6, 110, 179);
+  margin-left: 350px;
+  margin-top: 10px;
+  border-radius: 5px;
+  width: 110px;
+  height: 30px;
+}
+button:hover {
+  color: aliceblue;
+  background-color: #96c0fa;
+  border-color: #96c0fa;
+}
+.firstp img {
+  margin-right: -25px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.page3 {
+  background-color: white;
+  height: 2595px;
+  margin-top: -25px;
+}
+.head {
+  background-color: white;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  color: rgb(35, 35, 208);
+  font-size: 35px;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+.head p {
+  margin-top: 69px;
+  background-color: white;
+}
+
+.navbar {
+  background-color: gainsboro;
+  display: flex;
+  justify-content: center;
+  margin-left: 450px;
+  width: 30%;
+  border: 40px;
+  height: 50px;
+  border-radius: 50px;
+}
+.navbar a {
+  margin-top: 15px;
+  font-family: sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+}
+.down1 {
+  display: flex;
+  color: white;
+  background-color: #4979bc;
+  width: 1200px;
+  margin-right: 50px;
+  margin-left: 100px;
+  height: 300px;
+  margin-top: -170px;
+}
+.down1 button {
+  background-color: #4979bc;
+  border-style: none;
+  font-size: 40px;
+  color: white;
+  height: 50px;
+  margin-top: 125px;
+  margin-left: -10px;
+  justify-content: center;
+}
+.down1 span {
+  background-color: #4979bc;
+  margin-top: 150px;
+  margin-left: -5px;
+}
+.down1 p {
+  background-color: #4979bc;
+  margin-top: 150px;
+}
+.down {
+  height: 500px;
+  position: relative;
+  background-color: #4979bc;
+  width: 100%;
+  margin-left: -1px;
+  margin-top: 250px;
+  height: 400px;
+}
+.down img {
+  margin-left: 340px;
+  margin-top: -300px;
+  background-color: transparent;
+}
+.firstimg {
+  display: flex;
+  width: 750px;
+  height: 150px;
+  /* width: 8000px; */
+  /* height: 100vh; */
+  background-color: transparent;
+  margin-left: 300px;
+  margin-top: 100px;
+  background: linear-gradient(to top, #edde56, #e6ec9dc8),
+    url(Asset/carside.jpeg) no-repeat top center;
+  background-size: 750px 150px;
+}
+.firstimg img {
+  background-color: transparent;
+  margin-left: 20px;
+}
+.titl {
+  background-color: transparent;
+}
+.t1 {
+  font-family: sans-serif;
+  background-color: transparent;
+  margin-left: -30px;
+  margin-top: 10px;
+  font-size: x-large;
+  font-weight: bolder;
+}
+.t2 {
+  font-size: x-large;
+  font-weight: bolder;
+  font-family: sans-serif;
+  background-color: transparent;
+  margin-left: -30px;
+  margin-top: -15px;
+}
+.firstimg button {
+  background-color: black;
+  color: white;
+  margin-top: 45px;
+  margin-left: 200px;
+  width: 200px;
+  height: 50px;
+  border-radius: 5px;
+}
+.secondimg {
+  display: flex;
+  background-color: #757575;
+  width: 750px;
+  height: 150px;
+  margin-left: 300px;
+  margin-top: -1px;
+  background: linear-gradient(to top, #3204fdba, #9907facc),
+    url(Asset/carfront.jpeg) no-repeat top center;
+  background-size: 750px 150px;
+}
+.secondimg img {
+  background-color: transparent;
+  margin-left: 20px;
+}
+.titl1 {
+  background-color: transparent;
+  color: white;
+}
+.t3 {
+  font-family: sans-serif;
+  background-color: transparent;
+  margin-left: -30px;
+  margin-top: 13px;
+  font-size: x-large;
+  font-weight: bolder;
+  width: 325px;
+  word-spacing: 0px;
+}
+.t4 {
+  font-size: x-large;
+  font-weight: bolder;
+  font-family: sans-serif;
+  background-color: transparent;
+  margin-left: -30px;
+  margin-top: -10px;
+}
+.secondimg button {
+  background-color: #ffea00;
+  color: black;
+  margin-top: 45px;
+  margin-left: 20px;
+  width: 200px;
+  height: 50px;
+  border-radius: 5px;
+  border-color: transparent;
+}
+.three {
+  background-color: white;
+  display: flex;
+}
+.three button {
+  margin-top: 150px;
+  margin-left: 50px;
+  background-color: gainsboro;
+  color: black;
+  font-size: 15px;
+  justify-content: center;
+  border: rosybrown;
+  cursor: pointer;
+  height: 25px;
+  border-radius: 15px;
+}
+button:hover {
+  color: aliceblue;
+  background-color: #96c0fa;
+  border-color: #96c0fa;
+}
+.left {
+  margin-top: 80px;
+  margin-left: 90px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.right {
+  margin-top: 80px;
+  margin-left: -120px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.mid1 {
+  position: relative;
+  margin-top: 50px;
+  margin-left: -64px;
+  margin-right: 10px;
+  height: 280px;
+  border-radius: 20px;
+}
+.page4 {
+  background-color: white;
+  margin-top: 80px;
+}
+.add {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  color: rgb(35, 35, 208);
+  font-size: 35px;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+.map {
+  margin-top: 20px;
+  background-color: white;
+  font-family: sans-serif;
+}
+.map img {
+  margin-left: 300px;
+}
+.mapright {
+  display: flex;
+  margin-left: 660px;
+  margin-top: -250px;
+  background-color: white;
+}
+.mapright p {
+  background-color: white;
+  margin-left: 3px;
+  font-weight: bolder;
+  font-size: 20px;
+}
+.mapup {
+  display: flex;
+  background-color: white;
+  margin-left: 690px;
+  margin-top: -10px;
+}
+.mapup img {
+  background-color: gainsboro;
+  margin-left: -25px;
+  border-radius: 10px;
+}
+.mapup p {
+  margin-left: 10px;
+  margin-top: 10px;
+  background-color: white;
+}
+.mapdown {
+  display: flex;
+  background-color: white;
+  margin-left: 365px;
+  margin-top: -20px;
+}
+.mapdown p {
+  background-color: white;
+  margin-left: 10px;
+}
+.mapdown img {
+  border-radius: 10px;
+}
+.footer {
+  display: flex;
+  /* background-color:transparent; */
+  margin-top: 120px;
+  width: 1320px;
+  margin-left: -25px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  background: linear-gradient(to top, #3204fdba, #9907facc),
+    url(Asset/road.webp) no-repeat top center;
+  background-size: 1320px 550px;
+}
+.footer p {
+  background-color: transparent;
+  color: white;
+  margin-top: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.ourc {
+  background-color: transparent;
+  margin-left: 200px;
+}
+.ourc p {
+  background-color: transparent;
+}
+.ours {
+  background-color: transparent;
+}
+.ouro {
+  background-color: transparent;
+}
+.card {
+  background-color: black;
+  color: white;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  height: 200px;
+  width: 400px;
+  margin-top: 45px;
+}
+.card p {
+  background-color: black;
+  margin-top: 15px;
+}
+.copyright {
+  display: flex;
+  justify-content: center;
+  background-color: #3204fdba;
+  width: 1320px;
+  margin-left: -25px;
+  margin-top: 1px;
+}
+.copyright p {
+  background-color: transparent;
+  color: white;
+}
+
+/* Responsive css */
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  * {
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: gainsboro;
+  }
+  .container {
+    width: 1282px;
+  }
+  .header {
+    background-color: white;
+    height: 100px;
+  }
+  .header img {
+    margin-top: 4px;
+    margin-left: 595px;
+  }
+  .header1 {
+    background-color: white;
+    display: flex;
+    margin-top: -10px;
+    width: auto;
+  }
+  .header1 p {
+    background-color: white;
+  }
+  .header1 select {
+    background-color: white;
+    border-color: white;
+    margin-top: 12px;
+  }
+  .b2 {
+    margin-left: 200px;
+  }
+  .car {
+    display: flex;
+    margin-top: -24.5px;
+    /* position: realtive; */
+    background-color: white;
+    height: 780px;
+  }
+  .car img {
+    position: absolute;
+    margin-left: 0.5px;
+  }
+  .car .btn2 {
+    position: relative;
+    top: 125%;
+    left: 38%;
+    height: 20px;
+
+    background-color: gainsboro;
+    color: black;
+    font-size: 15px;
+    border: rosybrown;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .car .btn1 {
+    position: relative;
+
+    top: 125%;
+    left: 47%;
+    height: 20px;
+
+    background-color: gainsboro;
+    color: black;
+    font-size: 15px;
+    border: rosybrown;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .btn2:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .btn1:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .header2 {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    height: 200px;
+    margin-top: -355px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+  .first {
+    background-color: black;
+    height: 20px;
+  }
+  .first h1 {
+    background-color: black;
+    color: yellow;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 55px;
+  }
+  .first p {
+    color: white;
+    background-color: black;
+    margin-top: -25px;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: -5px;
+  }
+  .mid {
+    background-color: black;
+    height: 20px;
+  }
+  .mid h1 {
+    background-color: black;
+    border-left: 1px solid gainsboro;
+    height: 125px;
+  }
+  .page2 {
+    background-color: white;
+    height: 900px;
+  }
+  .page2 h1 {
+    background-color: white;
+    color: rgb(35, 35, 208);
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 75px;
+  }
+  .firstp {
+    display: block;
+    background-color: white;
+    color: black;
+  }
+  .cont {
+    background-color: white;
+    margin-left: -25px;
+    height: 200px;
+    margin-top: 5px;
+  }
+  .cont p {
+    margin-left: 98px;
+    display: flex;
+    font-size: 25px;
+    flex-direction: row;
+    background-color: white;
+    color: black;
+  }
+  .cont button {
+    background-color: white;
+    border-color: rgb(6, 110, 179);
+    color: rgb(6, 110, 179);
+    margin-left: 577px;
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 126px;
+    height: 39px;
+  }
+  button:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .firstp img {
+    margin-left: 390px;
+    margin-top: 306px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  .page3 {
+    background-color: white;
+    height: 2551px;
+
+    margin-top: -21px;
+  }
+  .head {
+    background-color: white;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    color: rgb(35, 35, 208);
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: sans-serif;
+  }
+  .head p {
+    margin-top: 69px;
+    background-color: white;
+  }
+
+  .navbar {
+    background-color: gainsboro;
+    display: flex;
+    justify-content: center;
+    margin-left: 450px;
+    width: 30%;
+    border: 40px;
+    height: 50px;
+    border-radius: 50px;
+  }
+  .navbar a {
+    margin-top: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .down1 {
+    display: flex;
+    color: white;
+    background-color: #4979bc;
+    width: 1200px;
+    /* margin-right: 50px; */
+    margin-left: 31px;
+    height: 300px;
+    margin-top: -170px;
+  }
+  .down1 button {
+    background-color: #4979bc;
+    border-style: none;
+    font-size: 40px;
+    color: white;
+    height: 50px;
+    margin-top: 125px;
+    margin-left: -10px;
+    justify-content: center;
+  }
+  .down1 span {
+    background-color: #4979bc;
+    margin-top: 150px;
+    margin-left: -5px;
+  }
+  .down1 p {
+    background-color: #4979bc;
+    margin-top: 150px;
+  }
+  .down {
+    height: 500px;
+    position: relative;
+    background-color: #4979bc;
+    width: 100%;
+    margin-left: -1px;
+    margin-top: 250px;
+    height: 400px;
+  }
+  .down img {
+    margin-left: 340px;
+    margin-top: -300px;
+    background-color: transparent;
+  }
+  .firstimg {
+    display: flex;
+    width: 750px;
+    height: 150px;
+    background-color: transparent;
+    margin-left: 300px;
+    margin-top: 100px;
+  }
+  .firstimg img {
+    background-color: transparent;
+    margin-left: 20px;
+  }
+  .titl {
+    background-color: transparent;
+  }
+  .t1 {
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: 10px;
+    font-size: x-large;
+    font-weight: bolder;
+  }
+  .t2 {
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: -15px;
+  }
+  .firstimg button {
+    background-color: black;
+    color: white;
+    margin-top: 45px;
+    margin-left: 200px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+  }
+  .secondimg {
+    display: flex;
+    background-color: transparent;
+    width: 750px;
+    height: 150px;
+    margin-left: 300px;
+    margin-top: -1px;
+  }
+  .secondimg img {
+    background-color: transparent;
+    margin-left: 20px;
+  }
+  .titl1 {
+    background-color: transparent;
+    color: white;
+  }
+  .t3 {
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: 13px;
+    font-size: x-large;
+    font-weight: bolder;
+    width: 325px;
+    word-spacing: 0px;
+  }
+  .t4 {
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: -10px;
+  }
+  .secondimg button {
+    background-color: #ffea00;
+    color: black;
+    margin-top: 45px;
+    margin-left: 20px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border-color: transparent;
+  }
+  .three {
+    background-color: white;
+    display: flex;
+  }
+  .three button {
+    margin-top: 150px;
+    margin-left: 50px;
+    background-color: gainsboro;
+    color: black;
+    font-size: 15px;
+    justify-content: center;
+    border: rosybrown;
+    cursor: pointer;
+    height: 25px;
+    border-radius: 15px;
+  }
+  button:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .left {
+    margin-top: 80px;
+    margin-left: 90px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  .right {
+    margin-top: 80px;
+    margin-left: -120px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  .mid1 {
+    position: relative;
+    margin-top: 50px;
+    margin-left: -64px;
+    margin-right: 10px;
+    height: 280px;
+    border-radius: 20px;
+  }
+  .page4 {
+    background-color: white;
+    margin-top: 80px;
+  }
+  .add {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    color: rgb(35, 35, 208);
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: sans-serif;
+  }
+  .map {
+    margin-top: 20px;
+    background-color: white;
+    font-family: sans-serif;
+  }
+  .map img {
+    margin-left: 300px;
+  }
+  .mapright {
+    display: flex;
+    margin-left: 660px;
+    margin-top: -250px;
+    background-color: white;
+  }
+  .mapright p {
+    background-color: white;
+    margin-left: 3px;
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  .mapup {
+    display: flex;
+    background-color: white;
+    margin-left: 690px;
+    margin-top: -10px;
+  }
+  .mapup img {
+    background-color: gainsboro;
+    margin-left: -25px;
+    border-radius: 10px;
+  }
+  .mapup p {
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: white;
+  }
+  .mapdown {
+    display: flex;
+    background-color: white;
+    margin-left: 365px;
+    margin-top: -20px;
+  }
+  .mapdown p {
+    background-color: white;
+    margin-left: 10px;
+  }
+  .mapdown img {
+    border-radius: 10px;
+  }
+  .footer {
+    display: flex;
+    background-color: transparent;
+    margin-top: 120px;
+    width: 1231px;
+    margin-left: -25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+  }
+  .footer p {
+    background-color: transparent;
+    color: white;
+    margin-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  }
+  .ourc {
+    background-color: transparent;
+    margin-left: 200px;
+  }
+  .ours {
+    background-color: transparent;
+  }
+
+  .ouro {
+    background-color: transparent;
+  }
+  .card {
+    background-color: black;
+    color: white;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    height: 200px;
+    width: 400px;
+    margin-top: 45px;
+  }
+  .card p {
+    background-color: black;
+    margin-top: 15px;
+  }
+  .copyright {
+    display: flex;
+    justify-content: center;
+    background-color: #3204fdba;
+    width: 1231px;
+    margin-left: -25px;
+    margin-top: 1px;
+  }
+  .copyright p {
+    background-color: transparent;
+    color: white;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  * {
+    margin-top: 25px;
+    margin-left: 17px;
+    margin-right: 25px;
+    background-color: gainsboro;
+  }
+  .container {
+    width: 1279px;
+    margin-left: -27px;
+  }
+  .header {
+    background-color: white;
+    height: 100px;
+  }
+  .header img {
+    margin-top: 4px;
+    margin-left: 595px;
+  }
+  .header1 {
+    background-color: white;
+    display: flex;
+    margin-top: -10px;
+    width: auto;
+  }
+  .header1 p {
+    background-color: white;
+  }
+  .header1 select {
+    background-color: white;
+    border-color: white;
+    margin-top: 12px;
+  }
+  .b2 {
+    margin-left: 200px;
+  }
+  .car {
+    display: flex;
+    margin-top: -24.5px;
+    position: realtive;
+    background-color: white;
+    height: 780px;
+  }
+  .car img {
+    position: absolute;
+    margin-left: 0.5px;
+  }
+  .car .btn2 {
+    position: relative;
+    top: 125%;
+    left: 38%;
+    height: 20px;
+
+    background-color: gainsboro;
+    color: black;
+    font-size: 15px;
+    border: rosybrown;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .car .btn1 {
+    position: relative;
+
+    top: 125%;
+    left: 47%;
+    height: 20px;
+
+    background-color: gainsboro;
+    color: black;
+    font-size: 15px;
+    border: rosybrown;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .btn2:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .btn1:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .header2 {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    height: 200px;
+    margin-top: -355px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+  .first {
+    background-color: black;
+    height: 20px;
+  }
+  .first h1 {
+    background-color: black;
+    color: yellow;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 55px;
+  }
+  .first p {
+    color: white;
+    background-color: black;
+    margin-top: -25px;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: -5px;
+  }
+  .mid {
+    background-color: black;
+    height: 20px;
+  }
+  .mid h1 {
+    background-color: black;
+    border-left: 1px solid gainsboro;
+    height: 125px;
+  }
+  .page2 {
+    background-color: white;
+    height: 450px;
+  }
+  .page2 h1 {
+    background-color: white;
+    color: rgb(35, 35, 208);
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 75px;
+  }
+  .firstp {
+    display: block;
+    background-color: white;
+    color: black;
+    width: 1237px;
+    margin-left: 0px;
+    height: 700px;
+  }
+  .cont {
+    background-color: white;
+    margin-left: 6px;
+    height: 200px;
+    margin-top: 5px;
+  }
+  .cont p {
+    margin-left: 60px;
+    display: flex;
+    font-size: 21px;
+    flex-direction: row;
+    background-color: white;
+    color: black;
+    line-height: 23px;
+  }
+  .cont button {
+    background-color: white;
+    border-color: rgb(6, 110, 179);
+    color: rgb(6, 110, 179);
+    margin-left: 560px;
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 110px;
+    height: 30px;
+  }
+  button:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .firstp img {
+    margin-left: 397px;
+    margin-top: 191px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  .page3 {
+    background-color: white;
+    height: 2595px;
+
+    margin-top: 315px;
+  }
+  .head {
+    background-color: white;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    color: rgb(35, 35, 208);
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: sans-serif;
+  }
+  .head p {
+    margin-top: 69px;
+    background-color: white;
+  }
+
+  .navbar {
+    background-color: gainsboro;
+    display: flex;
+    justify-content: center;
+    margin-left: 450px;
+    width: 30%;
+    border: 40px;
+    height: 50px;
+    border-radius: 50px;
+  }
+  .navbar a {
+    margin-top: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .down1 {
+    display: flex;
+    color: white;
+    background-color: #4979bc;
+    width: 1200px;
+    margin-right: 50px;
+    margin-left: 37px;
+    height: 300px;
+    margin-top: -170px;
+  }
+  .down1 button {
+    background-color: #4979bc;
+    border-style: none;
+    font-size: 40px;
+    color: white;
+    height: 50px;
+    margin-top: 125px;
+    margin-left: -10px;
+    justify-content: center;
+  }
+  .down1 span {
+    background-color: #4979bc;
+    margin-top: 150px;
+    margin-left: -5px;
+  }
+  .down1 p {
+    background-color: #4979bc;
+    margin-top: 150px;
+  }
+  .down {
+    height: 500px;
+    position: relative;
+    background-color: #4979bc;
+    width: 100%;
+    margin-left: -1px;
+    margin-top: 250px;
+    height: 400px;
+  }
+  .down img {
+    margin-left: 340px;
+    margin-top: -300px;
+    background-color: transparent;
+  }
+  .firstimg {
+    display: flex;
+    width: 750px;
+    height: 150px;
+    background-color: transparent;
+    margin-left: 300px;
+    margin-top: 100px;
+  }
+  .firstimg img {
+    background-color: transparent;
+    margin-left: 20px;
+  }
+  .titl {
+    background-color: transparent;
+  }
+  .t1 {
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: 10px;
+    font-size: x-large;
+    font-weight: bolder;
+  }
+  .t2 {
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: -15px;
+  }
+  .firstimg button {
+    background-color: black;
+    color: white;
+    margin-top: 45px;
+    margin-left: 200px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+  }
+  .secondimg {
+    display: flex;
+    background-color: transparent;
+    width: 750px;
+    height: 150px;
+    margin-left: 300px;
+    margin-top: -1px;
+  }
+  .secondimg img {
+    background-color: transparent;
+    margin-left: 20px;
+  }
+  .titl1 {
+    background-color: transparent;
+    color: white;
+  }
+  .t3 {
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: 13px;
+    font-size: x-large;
+    font-weight: bolder;
+    width: 325px;
+    word-spacing: 0px;
+  }
+  .t4 {
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: -10px;
+  }
+  .secondimg button {
+    background-color: #ffea00;
+    color: black;
+    margin-top: 45px;
+    margin-left: 20px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border-color: transparent;
+  }
+  .three {
+    background-color: white;
+    display: flex;
+  }
+  .three button {
+    margin-top: 150px;
+    margin-left: 50px;
+    background-color: gainsboro;
+    color: black;
+    font-size: 15px;
+    justify-content: center;
+    border: rosybrown;
+    cursor: pointer;
+    height: 25px;
+    border-radius: 15px;
+  }
+  button:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .left {
+    margin-top: 80px;
+    margin-left: 90px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  .right {
+    margin-top: 80px;
+    margin-left: -120px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  .mid1 {
+    position: relative;
+    margin-top: 50px;
+    margin-left: -64px;
+    margin-right: 10px;
+    height: 280px;
+    border-radius: 20px;
+  }
+  .page4 {
+    background-color: white;
+    margin-top: 80px;
+  }
+  .add {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    color: rgb(35, 35, 208);
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: sans-serif;
+  }
+  .map {
+    margin-top: 20px;
+    background-color: white;
+    font-family: sans-serif;
+  }
+  .map img {
+    margin-left: 300px;
+  }
+  .mapright {
+    display: flex;
+    margin-left: 660px;
+    margin-top: -250px;
+    background-color: white;
+  }
+  .mapright p {
+    background-color: white;
+    margin-left: 3px;
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  .mapup {
+    display: flex;
+    background-color: white;
+    margin-left: 690px;
+    margin-top: -10px;
+  }
+  .mapup img {
+    background-color: gainsboro;
+    margin-left: -25px;
+    border-radius: 10px;
+  }
+  .mapup p {
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: white;
+  }
+  .mapdown {
+    display: flex;
+    background-color: white;
+    margin-left: 365px;
+    margin-top: -20px;
+  }
+  .mapdown p {
+    background-color: white;
+    margin-left: 10px;
+  }
+  .mapdown img {
+    border-radius: 10px;
+  }
+  .footer {
+    display: flex;
+    background-color: transparent;
+    margin-top: 120px;
+    width: 1235px;
+    margin-left: -16px;
+
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+  }
+  .footer p {
+    background-color: transparent;
+    color: white;
+    margin-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  }
+  .ourc {
+    background-color: transparent;
+    margin-left: 200px;
+  }
+  .ours {
+    background-color: transparent;
+  }
+  .ouro {
+    background-color: transparent;
+  }
+  .card {
+    background-color: black;
+    color: white;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    height: 200px;
+    width: 400px;
+    margin-top: 45px;
+  }
+  .card p {
+    background-color: black;
+    margin-top: 15px;
+  }
+  .copyright {
+    display: flex;
+    justify-content: center;
+    background-color: #3204fdba;
+    width: 1238px;
+    margin-left: -17px;
+    margin-top: 3px;
+  }
+  .copyright p {
+    background-color: transparent;
+    color: white;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  * {
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 26px;
+    background-color: gainsboro;
+  }
+  .container {
+    width: 1282px;
+    margin-left: -42px;
+    /* margin-right: 243px; */
+  }
+  .header {
+    background-color: white;
+    height: 100px;
+  }
+  .header img {
+    margin-top: 4px;
+    margin-left: 595px;
+  }
+  .header1 {
+    background-color: white;
+    display: flex;
+    margin-top: -10px;
+    width: auto;
+  }
+  .header1 p {
+    background-color: white;
+  }
+  .header1 select {
+    background-color: white;
+    border-color: white;
+    margin-top: 12px;
+  }
+  .b2 {
+    margin-left: 200px;
+  }
+  .car {
+    display: flex;
+    margin-top: -24.5px;
+    position: realtive;
+    background-color: white;
+    height: 780px;
+  }
+  .car img {
+    position: absolute;
+    margin-left: 0.5px;
+  }
+  .car .btn2 {
+    position: relative;
+    top: 125%;
+    left: 38%;
+
+    background-color: gainsboro;
+    color: black;
+    font-size: 15px;
+    border: rosybrown;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .car .btn1 {
+    position: relative;
+
+    top: 125%;
+    left: 47%;
+
+    background-color: gainsboro;
+    color: black;
+    font-size: 15px;
+    border: rosybrown;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .btn2:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .btn1:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .header2 {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    height: 200px;
+    margin-top: -355px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+  .first {
+    background-color: black;
+    height: 20px;
+  }
+  .first h1 {
+    background-color: black;
+    color: yellow;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 55px;
+  }
+  .first p {
+    color: white;
+    background-color: black;
+    margin-top: -25px;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: -5px;
+  }
+  .mid {
+    background-color: black;
+    height: 20px;
+  }
+  .mid h1 {
+    background-color: black;
+    border-left: 1px solid gainsboro;
+    height: 125px;
+  }
+  .page2 {
+    background-color: white;
+    height: 450px;
+  }
+  .page2 h1 {
+    background-color: white;
+    color: rgb(35, 35, 208);
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 75px;
+  }
+  .firstp {
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 1227px;
+    margin-left: 2px;
+  }
+  .cont {
+    margin-left: -1px;
+    background-color: white;
+    height: 200px;
+    margin-top: 10px;
+  }
+  .cont p {
+    margin-left: 80px;
+    display: flex;
+    font-size: 19px;
+    flex-direction: row;
+    background-color: white;
+    color: black;
+    width: 678px;
+  }
+  .cont button {
+    background-color: white;
+    border-color: rgb(6, 110, 179);
+    color: rgb(6, 110, 179);
+    margin-left: 350px;
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 110px;
+    height: 30px;
+  }
+  button:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .firstp img {
+    margin-left: -30px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-top: 54px;
+  }
+  .page3 {
+    background-color: white;
+    height: 2595px;
+
+    margin-top: -25px;
+  }
+  .head {
+    background-color: white;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    color: rgb(35, 35, 208);
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: sans-serif;
+  }
+  .head p {
+    margin-top: 115px;
+    background-color: white;
+  }
+
+  .navbar {
+    background-color: gainsboro;
+    display: flex;
+    justify-content: center;
+    margin-left: 450px;
+    width: 30%;
+    border: 40px;
+    height: 50px;
+    border-radius: 50px;
+  }
+  .navbar a {
+    margin-top: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .down1 {
+    display: flex;
+    color: white;
+    background-color: #4979bc;
+    width: 1196px;
+    margin-right: 50px;
+    margin-left: 37px;
+
+    height: 300px;
+    margin-top: -170px;
+  }
+  .down1 button {
+    background-color: #4979bc;
+    border-style: none;
+    font-size: 40px;
+    color: white;
+    height: 50px;
+    margin-top: 125px;
+    margin-left: -10px;
+    justify-content: center;
+  }
+  .down1 span {
+    background-color: #4979bc;
+    margin-top: 150px;
+    margin-left: -5px;
+  }
+  .down1 p {
+    background-color: #4979bc;
+    margin-top: 150px;
+  }
+  .down {
+    height: 500px;
+    position: relative;
+    background-color: #4979bc;
+    width: 1233px;
+    margin-left: -1px;
+    margin-top: 250px;
+    height: 400px;
+  }
+  .down img {
+    margin-left: 340px;
+    margin-top: -300px;
+    background-color: transparent;
+  }
+  .firstimg {
+    display: flex;
+    width: 750px;
+    height: 150px;
+    background-color: transparent;
+    margin-left: 300px;
+    margin-top: 100px;
+  }
+  .firstimg img {
+    background-color: transparent;
+    margin-left: 20px;
+  }
+  .titl {
+    background-color: transparent;
+  }
+  .t1 {
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: 10px;
+    font-size: x-large;
+    font-weight: bolder;
+  }
+  .t2 {
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: -15px;
+  }
+  .firstimg button {
+    background-color: black;
+    color: white;
+    margin-top: 45px;
+    margin-left: 200px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+  }
+  .secondimg {
+    display: flex;
+    background-color: transparent;
+    width: 750px;
+    height: 150px;
+    margin-left: 300px;
+    margin-top: -1px;
+  }
+  .secondimg img {
+    background-color: transparent;
+    margin-left: 20px;
+  }
+  .titl1 {
+    background-color: transparent;
+    color: white;
+  }
+  .t3 {
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: 13px;
+    font-size: x-large;
+    font-weight: bolder;
+    width: 325px;
+    word-spacing: 0px;
+  }
+  .t4 {
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: -10px;
+  }
+  .secondimg button {
+    background-color: #ffea00;
+    color: black;
+    margin-top: 45px;
+    margin-left: 20px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border-color: transparent;
+  }
+  .three {
+    background-color: white;
+    display: flex;
+  }
+  .three button {
+    margin-top: 150px;
+    margin-left: 50px;
+    background-color: gainsboro;
+    color: black;
+    font-size: 15px;
+    justify-content: center;
+    border: rosybrown;
+    cursor: pointer;
+    height: 25px;
+    border-radius: 15px;
+  }
+  button:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .left {
+    margin-top: 80px;
+    margin-left: 90px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  .right {
+    margin-top: 80px;
+    margin-left: -120px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  .mid1 {
+    position: relative;
+    margin-top: 50px;
+    margin-left: -64px;
+    margin-right: 10px;
+    height: 280px;
+    border-radius: 20px;
+  }
+  .page4 {
+    background-color: white;
+    margin-top: 80px;
+  }
+  .add {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    color: rgb(35, 35, 208);
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: sans-serif;
+  }
+  .map {
+    margin-top: 20px;
+    background-color: white;
+    font-family: sans-serif;
+  }
+  .map img {
+    margin-left: 300px;
+  }
+  .mapright {
+    display: flex;
+    margin-left: 660px;
+    margin-top: -250px;
+    background-color: white;
+  }
+  .mapright p {
+    background-color: white;
+    margin-left: 3px;
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  .mapup {
+    display: flex;
+    background-color: white;
+    margin-left: 690px;
+    margin-top: -10px;
+  }
+  .mapup img {
+    background-color: gainsboro;
+    margin-left: -25px;
+    border-radius: 10px;
+  }
+  .mapup p {
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: white;
+  }
+  .mapdown {
+    display: flex;
+    background-color: white;
+    margin-left: 365px;
+    margin-top: -20px;
+  }
+  .mapdown p {
+    background-color: white;
+    margin-left: 10px;
+  }
+  .mapdown img {
+    border-radius: 10px;
+  }
+  .footer {
+    display: flex;
+    background-color: transparent;
+    margin-top: 120px;
+    width: 1231px;
+    margin-left: -25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+  }
+  .footer p {
+    background-color: transparent;
+    color: white;
+    margin-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  }
+  .ourc {
+    background-color: transparent;
+    margin-left: 200px;
+  }
+  .ours {
+    background-color: transparent;
+  }
+  .ouro {
+    background-color: transparent;
+  }
+  .card {
+    background-color: black;
+    color: white;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    height: 200px;
+    width: 400px;
+    margin-top: 45px;
+  }
+  .card p {
+    background-color: black;
+    margin-top: 15px;
+  }
+  .copyright {
+    display: flex;
+    justify-content: center;
+    background-color: #3204fdba;
+    width: 1231px;
+    margin-left: -25px;
+    margin-top: 1px;
+  }
+  .copyright p {
+    background-color: transparent;
+    color: white;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  * {
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 26px;
+    background-color: gainsboro;
+  }
+  .container {
+    width: 1282px;
+    margin-left: -48px;
+    /* margin-right: 243px; */
+  }
+  .header {
+    background-color: white;
+    height: 100px;
+  }
+  .header img {
+    margin-top: 4px;
+    margin-left: 595px;
+  }
+  .header1 {
+    background-color: white;
+    display: flex;
+    margin-top: -10px;
+    width: auto;
+  }
+  .header1 p {
+    background-color: white;
+  }
+  .header1 select {
+    background-color: white;
+    border-color: white;
+    margin-top: 12px;
+  }
+  .b2 {
+    margin-left: 200px;
+  }
+  .car {
+    display: flex;
+    margin-top: -24.5px;
+    position: realtive;
+    background-color: white;
+    height: 780px;
+  }
+  .car img {
+    position: absolute;
+    margin-left: 0.5px;
+  }
+  .car .btn2 {
+    position: relative;
+    top: 125%;
+    left: 38%;
+
+    background-color: gainsboro;
+    color: black;
+    font-size: 15px;
+    border: rosybrown;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .car .btn1 {
+    position: relative;
+
+    top: 125%;
+    left: 47%;
+
+    background-color: gainsboro;
+    color: black;
+    font-size: 15px;
+    border: rosybrown;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .btn2:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .btn1:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .header2 {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    height: 200px;
+    margin-top: -355px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+  .first {
+    background-color: black;
+    height: 20px;
+  }
+  .first h1 {
+    background-color: black;
+    color: yellow;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 55px;
+  }
+  .first p {
+    color: white;
+    background-color: black;
+    margin-top: -25px;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: -5px;
+  }
+  .mid {
+    background-color: black;
+    height: 20px;
+  }
+  .mid h1 {
+    background-color: black;
+    border-left: 1px solid gainsboro;
+    height: 125px;
+  }
+  .page2 {
+    background-color: white;
+    height: 450px;
+  }
+  .page2 h1 {
+    background-color: white;
+    color: rgb(35, 35, 208);
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 75px;
+  }
+  .firstp {
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 1227px;
+    margin-left: 2px;
+  }
+  .cont {
+    margin-left: -1px;
+    background-color: white;
+    height: 200px;
+    margin-top: 10px;
+  }
+  .cont p {
+    margin-left: 80px;
+    display: flex;
+    font-size: 19px;
+    flex-direction: row;
+    background-color: white;
+    color: black;
+    width: 678px;
+  }
+  .cont button {
+    background-color: white;
+    border-color: rgb(6, 110, 179);
+    color: rgb(6, 110, 179);
+    margin-left: 350px;
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 110px;
+    height: 30px;
+  }
+  button:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .firstp img {
+    margin-left: -30px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-top: 54px;
+  }
+  .page3 {
+    background-color: white;
+    height: 2595px;
+    margin-top: -25px;
+  }
+  .head {
+    background-color: white;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    color: rgb(35, 35, 208);
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: sans-serif;
+  }
+  .head p {
+    margin-top: 115px;
+    background-color: white;
+  }
+
+  .navbar {
+    background-color: gainsboro;
+    display: flex;
+    justify-content: center;
+    margin-left: 450px;
+    width: 30%;
+    border: 40px;
+    height: 50px;
+    border-radius: 50px;
+  }
+  .navbar a {
+    margin-top: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .down1 {
+    display: flex;
+    color: white;
+    background-color: #4979bc;
+    width: 1196px;
+    margin-right: 50px;
+    margin-left: 37px;
+
+    height: 300px;
+    margin-top: -170px;
+  }
+  .down1 button {
+    background-color: #4979bc;
+    border-style: none;
+    font-size: 40px;
+    color: white;
+    height: 50px;
+    margin-top: 125px;
+    margin-left: -10px;
+    justify-content: center;
+  }
+  .down1 span {
+    background-color: #4979bc;
+    margin-top: 150px;
+    margin-left: -5px;
+  }
+  .down1 p {
+    background-color: #4979bc;
+    margin-top: 150px;
+  }
+  .down {
+    height: 500px;
+    position: relative;
+    background-color: #4979bc;
+    width: 1233px;
+    margin-left: -1px;
+    margin-top: 250px;
+    height: 400px;
+  }
+  .down img {
+    margin-left: 340px;
+    margin-top: -300px;
+    background-color: transparent;
+  }
+  .firstimg {
+    display: flex;
+    width: 750px;
+    height: 150px;
+    background-color: transparent;
+    margin-left: 300px;
+    margin-top: 100px;
+  }
+  .firstimg img {
+    background-color: transparent;
+    margin-left: 20px;
+  }
+  .titl {
+    background-color: transparent;
+  }
+  .t1 {
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: 10px;
+    font-size: x-large;
+    font-weight: bolder;
+  }
+  .t2 {
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: -15px;
+  }
+  .firstimg button {
+    background-color: black;
+    color: white;
+    margin-top: 45px;
+    margin-left: 200px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+  }
+  .secondimg {
+    display: flex;
+    background-color: transparent;
+    width: 750px;
+    height: 150px;
+    margin-left: 300px;
+    margin-top: -1px;
+  }
+  .secondimg img {
+    background-color: transparent;
+    margin-left: 20px;
+  }
+  .titl1 {
+    background-color: transparent;
+    color: white;
+  }
+  .t3 {
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: 13px;
+    font-size: x-large;
+    font-weight: bolder;
+    width: 325px;
+    word-spacing: 0px;
+  }
+  .t4 {
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: -10px;
+  }
+  .secondimg button {
+    background-color: #ffea00;
+    color: black;
+    margin-top: 45px;
+    margin-left: 20px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border-color: transparent;
+  }
+  .three {
+    background-color: white;
+    display: flex;
+  }
+  .three button {
+    margin-top: 150px;
+    margin-left: 50px;
+    background-color: gainsboro;
+    color: black;
+    font-size: 15px;
+    justify-content: center;
+    border: rosybrown;
+    cursor: pointer;
+    height: 25px;
+    border-radius: 15px;
+  }
+  button:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .left {
+    margin-top: 80px;
+    margin-left: 90px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  .right {
+    margin-top: 80px;
+    margin-left: -120px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  .mid1 {
+    position: relative;
+    margin-top: 50px;
+    margin-left: -64px;
+    margin-right: 10px;
+    height: 280px;
+    border-radius: 20px;
+  }
+  .page4 {
+    background-color: white;
+    margin-top: 80px;
+  }
+  .add {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    color: rgb(35, 35, 208);
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: sans-serif;
+  }
+  .map {
+    margin-top: 20px;
+    background-color: white;
+    font-family: sans-serif;
+  }
+  .map img {
+    margin-left: 300px;
+  }
+  .mapright {
+    display: flex;
+    margin-left: 660px;
+    margin-top: -250px;
+    background-color: white;
+  }
+  .mapright p {
+    background-color: white;
+    margin-left: 3px;
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  .mapup {
+    display: flex;
+    background-color: white;
+    margin-left: 690px;
+    margin-top: -10px;
+  }
+  .mapup img {
+    background-color: gainsboro;
+    margin-left: -25px;
+    border-radius: 10px;
+  }
+  .mapup p {
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: white;
+  }
+  .mapdown {
+    display: flex;
+    background-color: white;
+    margin-left: 365px;
+    margin-top: -20px;
+  }
+  .mapdown p {
+    background-color: white;
+    margin-left: 10px;
+  }
+  .mapdown img {
+    border-radius: 10px;
+  }
+  .footer {
+    display: flex;
+    background-color: transparent;
+    margin-top: 120px;
+    width: 1231px;
+    margin-left: -25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+  }
+  .footer p {
+    background-color: transparent;
+    color: white;
+    margin-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  }
+  .ourc {
+    background-color: transparent;
+    margin-left: 200px;
+  }
+  .ours {
+    background-color: transparent;
+  }
+  .ouro {
+    background-color: transparent;
+  }
+  .card {
+    background-color: black;
+    color: white;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    height: 200px;
+    width: 400px;
+    margin-top: 45px;
+  }
+  .card p {
+    background-color: black;
+    margin-top: 15px;
+  }
+  .copyright {
+    display: flex;
+    justify-content: center;
+    background-color: #3204fdba;
+    width: 1231px;
+    margin-left: -25px;
+    margin-top: 1px;
+  }
+  .copyright p {
+    background-color: transparent;
+    color: white;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  * {
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 26px;
+    background-color: gainsboro;
+  }
+  .container {
+    width: 1282px;
+    margin-left: -54px;
+    /* margin-right: 243px; */
+  }
+  .header {
+    background-color: white;
+    height: 100px;
+  }
+  .header img {
+    margin-top: 4px;
+    margin-left: 595px;
+  }
+  .header1 {
+    background-color: white;
+    display: flex;
+    margin-top: -10px;
+    width: auto;
+  }
+  .header1 p {
+    background-color: white;
+  }
+  .header1 select {
+    background-color: white;
+    border-color: white;
+    margin-top: 12px;
+  }
+  .b2 {
+    margin-left: 200px;
+  }
+  .car {
+    display: flex;
+    margin-top: -24.5px;
+    position: realtive;
+    background-color: white;
+    height: 780px;
+  }
+  .car img {
+    position: absolute;
+    margin-left: 0.5px;
+  }
+  .car .btn2 {
+    position: relative;
+    top: 125%;
+    left: 38%;
+
+    background-color: gainsboro;
+    color: black;
+    font-size: 15px;
+    border: rosybrown;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .car .btn1 {
+    position: relative;
+
+    top: 125%;
+    left: 47%;
+
+    background-color: gainsboro;
+    color: black;
+    font-size: 15px;
+    border: rosybrown;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .btn2:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .btn1:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .header2 {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    height: 200px;
+    margin-top: -355px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+  .first {
+    background-color: black;
+    height: 20px;
+  }
+  .first h1 {
+    background-color: black;
+    color: yellow;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 55px;
+  }
+  .first p {
+    color: white;
+    background-color: black;
+    margin-top: -25px;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: -5px;
+  }
+  .mid {
+    background-color: black;
+    height: 20px;
+  }
+  .mid h1 {
+    background-color: black;
+    border-left: 1px solid gainsboro;
+    height: 125px;
+  }
+  .page2 {
+    background-color: white;
+    height: 450px;
+  }
+  .page2 h1 {
+    background-color: white;
+    color: rgb(35, 35, 208);
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 75px;
+  }
+  .firstp {
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 1227px;
+    margin-left: 2px;
+  }
+  .cont {
+    margin-left: -1px;
+    background-color: white;
+    height: 200px;
+    margin-top: 10px;
+  }
+  .cont p {
+    margin-left: 80px;
+    display: flex;
+    font-size: 19px;
+    flex-direction: row;
+    background-color: white;
+    color: black;
+    width: 678px;
+  }
+  .cont button {
+    background-color: white;
+    border-color: rgb(6, 110, 179);
+    color: rgb(6, 110, 179);
+    margin-left: 350px;
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 110px;
+    height: 30px;
+  }
+  button:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .firstp img {
+    margin-left: -30px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-top: 54px;
+  }
+  .page3 {
+    background-color: white;
+    height: 2595px;
+    margin-top: -25px;
+  }
+  .head {
+    background-color: white;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    color: rgb(35, 35, 208);
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: sans-serif;
+  }
+  .head p {
+    margin-top: 115px;
+    background-color: white;
+  }
+
+  .navbar {
+    background-color: gainsboro;
+    display: flex;
+    justify-content: center;
+    margin-left: 450px;
+    width: 30%;
+    border: 40px;
+    height: 50px;
+    border-radius: 50px;
+  }
+  .navbar a {
+    margin-top: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .down1 {
+    display: flex;
+    color: white;
+    background-color: #4979bc;
+    width: 1196px;
+    margin-right: 50px;
+    margin-left: 37px;
+
+    height: 300px;
+    margin-top: -170px;
+  }
+  .down1 button {
+    background-color: #4979bc;
+    border-style: none;
+    font-size: 40px;
+    color: white;
+    height: 50px;
+    margin-top: 125px;
+    margin-left: -10px;
+    justify-content: center;
+  }
+  .down1 span {
+    background-color: #4979bc;
+    margin-top: 150px;
+    margin-left: -5px;
+  }
+  .down1 p {
+    background-color: #4979bc;
+    margin-top: 150px;
+  }
+  .down {
+    height: 500px;
+    position: relative;
+    background-color: #4979bc;
+    width: 1233px;
+    margin-left: -1px;
+    margin-top: 250px;
+    height: 400px;
+  }
+  .down img {
+    margin-left: 340px;
+    margin-top: -300px;
+    background-color: transparent;
+  }
+  .firstimg {
+    display: flex;
+    width: 750px;
+    height: 150px;
+    background-color: transparent;
+    margin-left: 300px;
+    margin-top: 100px;
+  }
+  .firstimg img {
+    background-color: transparent;
+    margin-left: 20px;
+  }
+  .titl {
+    background-color: transparent;
+  }
+  .t1 {
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: 10px;
+    font-size: x-large;
+    font-weight: bolder;
+  }
+  .t2 {
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: -15px;
+  }
+  .firstimg button {
+    background-color: black;
+    color: white;
+    margin-top: 45px;
+    margin-left: 200px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+  }
+  .secondimg {
+    display: flex;
+    background-color: transparent;
+    width: 750px;
+    height: 150px;
+    margin-left: 300px;
+    margin-top: -1px;
+  }
+  .secondimg img {
+    background-color: transparent;
+    margin-left: 20px;
+  }
+  .titl1 {
+    background-color: transparent;
+    color: white;
+  }
+  .t3 {
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: 13px;
+    font-size: x-large;
+    font-weight: bolder;
+    width: 325px;
+    word-spacing: 0px;
+  }
+  .t4 {
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: sans-serif;
+    background-color: transparent;
+    margin-left: -30px;
+    margin-top: -10px;
+  }
+  .secondimg button {
+    background-color: #ffea00;
+    color: black;
+    margin-top: 45px;
+    margin-left: 20px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border-color: transparent;
+  }
+  .three {
+    background-color: white;
+    display: flex;
+  }
+  .three button {
+    margin-top: 150px;
+    margin-left: 50px;
+    background-color: gainsboro;
+    color: black;
+    font-size: 15px;
+    justify-content: center;
+    border: rosybrown;
+    cursor: pointer;
+    height: 25px;
+    border-radius: 15px;
+  }
+  button:hover {
+    color: aliceblue;
+    background-color: #96c0fa;
+    border-color: #96c0fa;
+  }
+  .left {
+    margin-top: 80px;
+    margin-left: 90px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  .right {
+    margin-top: 80px;
+    margin-left: -120px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  .mid1 {
+    position: relative;
+    margin-top: 50px;
+    margin-left: -64px;
+    margin-right: 10px;
+    height: 280px;
+    border-radius: 20px;
+  }
+  .page4 {
+    background-color: white;
+    margin-top: 80px;
+  }
+  .add {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    color: rgb(35, 35, 208);
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: sans-serif;
+  }
+  .map {
+    margin-top: 20px;
+    background-color: white;
+    font-family: sans-serif;
+  }
+  .map img {
+    margin-left: 300px;
+  }
+  .mapright {
+    display: flex;
+    margin-left: 660px;
+    margin-top: -250px;
+    background-color: white;
+  }
+  .mapright p {
+    background-color: white;
+    margin-left: 3px;
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  .mapup {
+    display: flex;
+    background-color: white;
+    margin-left: 690px;
+    margin-top: -10px;
+  }
+  .mapup img {
+    background-color: gainsboro;
+    margin-left: -25px;
+    border-radius: 10px;
+  }
+  .mapup p {
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: white;
+  }
+  .mapdown {
+    display: flex;
+    background-color: white;
+    margin-left: 365px;
+    margin-top: -20px;
+  }
+  .mapdown p {
+    background-color: white;
+    margin-left: 10px;
+  }
+  .mapdown img {
+    border-radius: 10px;
+  }
+  .footer {
+    display: flex;
+    background-color: transparent;
+    margin-top: 120px;
+    width: 1231px;
+    margin-left: -25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+  }
+  .footer p {
+    background-color: transparent;
+    color: white;
+    margin-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  }
+  .ourc {
+    background-color: transparent;
+    margin-left: 200px;
+  }
+  .ours {
+    background-color: transparent;
+  }
+  .ouro {
+    background-color: transparent;
+  }
+  .card {
+    background-color: black;
+    color: white;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    height: 200px;
+    width: 400px;
+    margin-top: 45px;
+  }
+  .card p {
+    background-color: black;
+    margin-top: 15px;
+  }
+  .copyright {
+    display: flex;
+    justify-content: center;
+    background-color: #3204fdba;
+    width: 1231px;
+    margin-left: -25px;
+    margin-top: 1px;
+  }
+  .copyright p {
+    background-color: transparent;
+    color: white;
+  }
+}
